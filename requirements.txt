@@ -1,0 +1,19 @@
+# Python 3.12
+# Data handling
+numpy==2.5.3
+pandas==3.0.6
+openpyxl==3.1.5
+
+# Modelling and optimization
+scikit-learn==1.9.1
+catboost==1.2.10
+lightgbm==4.7.0
+bayesian-optimization==3.3.0
+
+# Visualization
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+
+# Notebook
+jupyterlab==4.6.4
